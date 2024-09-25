@@ -8,8 +8,6 @@ response = requests.get(url)
 
 import json
 
-# Example of JSON data (only a portion shown for illustration)
-
 
 data = response.json()
 
